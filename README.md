@@ -50,4 +50,6 @@ This project is a Twitter-like social network website for making posts and follo
 - Users can toggle "like" on any post.
 - The like count updates asynchronously using JavaScript without reloading the page.
 
+[Demo Video](https://youtu.be/qVGaknkC7K8?si=pNzGlvarm0PUXv36)
+
 For more details on the project specifications, visit [CS50 Network Project](https://cs50.harvard.edu/web/2020/projects/4/network/).
